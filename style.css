@@ -1,0 +1,20 @@
+.transform{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    transition: 1s linear ;
+    
+}
+.transform:hover{
+    transform: skewY(30deg);
+}
+div p {
+    background-color: lightgreen;
+  }
+  button{
+    height: 60px;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 20px;
+  }
+  button:hover{background-color: lightgreen;}
